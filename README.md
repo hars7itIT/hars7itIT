@@ -1,5 +1,18 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>- 🔭 I’m currently working on **Full Stack Web Development projects using React, Node.js, Express.js, MongoDB & MySQL**<br>- 🚀 Building **responsive web applications, AI-powered tools, and interactive games like Chess & Tic-Tac-Toe**<br>- 🌱 I’m currently learning **React.js, Next.js, TypeScript, Advanced JavaScript, Python, and System Design**<br>- 👯 I’m looking to collaborate on **Open Source, Full Stack, AI, and Frontend Development projects**<br>- 🤝 I’m looking for help with **Data Structures & Algorithms, Backend Architecture, and Cloud Deployment**<br>- 💬 Ask me about **C++, JavaScript, HTML, CSS, React, Git, GitHub, and Web Development**<br>- 📚 Currently solving **DSA problems daily** to strengthen problem-solving skills<br>- 🎯 Goal: **Become a Software Engineer at Microsoft, Google, Meta, or another leading tech company**<br>- 🏆 Completed **Sigma Web Development Course** and continuously building real-world projects<br>- 🌐 Check out my portfolio: **Coming Soon 🚀**<br>- 📫 Reach me at: **your-email@example.com**<br>- ⚡ Fun fact: **I enjoy playing cricket 🏏, singing 🎤, reading books 📚, and turning ideas into real-world applications through code.**
+## 👨‍💻 About Me
+
+- 🎓 I'm **Harshit Gupta**, a 2nd-year Computer Science student at **UIET Chandigarh**.
+- 🔭 Currently building **Full Stack Web Applications** using **React, Node.js, Express.js, MongoDB, and MySQL**.
+- 🚀 Passionate about creating **responsive websites, AI-powered tools, and interactive projects** like Chess & Tic-Tac-Toe.
+- 🌱 Currently learning **Next.js, TypeScript, Advanced JavaScript, Python, DSA, and System Design**.
+- 👯 Open to collaborating on **Open Source, Full Stack, and Frontend Development** projects.
+- 🤝 Looking to improve my skills in **Data Structures & Algorithms, Backend Development, and Cloud Computing**.
+- 💬 Ask me about **C++, JavaScript, HTML, CSS, React, Git, GitHub, and Web Development**.
+- 📚 Solving **DSA problems** regularly and building real-world projects to sharpen my development skills.
+- 🏆 Completed the **Sigma Web Development Course** and continuously exploring modern web technologies.
+- 🎯 Aspiring to become a **Software Engineer** at leading global tech companies.
+- 🌐 Portfolio: **Coming Soon 🚀**
+- 📫 Reach me at: **your-email@example.com**
+- ⚡ Fun fact: I enjoy **cricket 🏏, singing 🎤, reading 📚, and turning ideas into impactful software.**
 
 
 ## 🌐 Socials:
