@@ -11,7 +11,7 @@
 - 🏆 Completed the **Sigma Web Development Course** and continuously exploring modern web technologies.
 - 🎯 Aspiring to become a **Software Engineer** at leading global tech companies.
 - 🌐 Portfolio: **Coming Soon 🚀**
-- 📫 Reach me at: **chandreshgupta999"gmail.com**
+- 📫 Reach me at: **chandreshgupta999gmail.com**
 - ⚡ Fun fact: I enjoy **cricket 🏏, singing 🎤, reading 📚, and turning ideas into impactful software.**
 
 
